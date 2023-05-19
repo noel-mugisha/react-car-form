@@ -1,0 +1,23 @@
+img{
+    width: 100%;
+    object-fit: cover;
+}
+
+.form-card{
+    display: flex;
+}
+
+.form-card > *{
+    width: 100%;
+    padding: 1em;
+}
+
+.form-card .input-div{
+    height: auto;
+    margin: 1em auto;
+}
+
+input[type='date']{
+    width: 100%;
+    padding: 1em;
+}
